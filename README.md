@@ -10,6 +10,6 @@ I haven't done a lot of personal work with Shiny recently. Most of what I've don
 
 ### References
 
-[Ranney, S. H., M. R. Fincel, M. R. Wuellner, J. A. VanDeHey, and M. L. Brown. 2010. Assessing length-related bias and the need for data standardization in the development of standard weight equations. North American Journal of Fisheries Management 30:655-664.](https://stevenranney.github.io/publications/Ranney et al_2010_Ws1.pdf)
+[Ranney, S. H., M. R. Fincel, M. R. Wuellner, J. A. VanDeHey, and M. L. Brown. 2010. Assessing length-related bias and the need for data standardization in the development of standard weight equations. North American Journal of Fisheries Management 30:655-664.](https://stevenranney.github.io/published/Ranney et al_2010_Ws1.pdf)
 
-[Ranney, S. H., M. R. Fincel, M. R. Wuellner, J. A. VanDeHey, and M. L. Brown. 2011. Assessing length-related biases in standard weight equations: response to comment. North American Journal of Fisheries Management 31:661-665.](https://stevenranney.github.io/publications/Ranney et al_2011_Ws2.pdf)
+[Ranney, S. H., M. R. Fincel, M. R. Wuellner, J. A. VanDeHey, and M. L. Brown. 2011. Assessing length-related biases in standard weight equations: response to comment. North American Journal of Fisheries Management 31:661-665.](https://stevenranney.github.io/published/Ranney et al_2011_Ws2.pdf)
