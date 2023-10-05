@@ -1,5 +1,5 @@
 title: shinyApps
 theme: minima
 header_pages:
-  - about.md
-  - projects.md
+  - ../about.md
+  - ../projects.md
