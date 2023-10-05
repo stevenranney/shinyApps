@@ -11,7 +11,7 @@ I haven't done a lot of personal work with Shiny recently. Most of what I've don
 * [Walleye weight-length data](https://stevenranney.shinyapps.io/waeDemo/) - My first app (published 12 Aug 2014) as a 'proof of concept' for myself.  This is a simple app, meant only as a training exercise.  The plots in this app are 'standard' plots and regressions are "standard" plots for fisheries science.  Indeed, weight-length data is some of the most important data collected in fisheries (see Ranney et al. 2010 and Ranney et al. 2011 for more information).
 
 
-###References
+### References
 
 [Ranney, S. H., M. R. Fincel, M. R. Wuellner, J. A. VanDeHey, and M. L. Brown. 2010. Assessing length-related bias and the need for data standardization in the development of standard weight equations. North American Journal of Fisheries Management 30:655-664.](https://stevenranney.github.io/publications/Ranney et al_2010_Ws1.pdf)
 
