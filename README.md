@@ -1,6 +1,3 @@
-shinyApps
-=========
-
 Shiny-and web development with data--is fun. 
 
 I haven't done a lot of personal work with Shiny recently. Most of what I've done with Shiny in the last few years has been professional, contained in Docker, and launched on either a Shiny server or pushed to a cloud provider. However, here's a few apps I put together a long time ago.
