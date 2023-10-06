@@ -1,4 +1,6 @@
-title: shinyApps
+title: Published Shiny apps
+description: >-
+  Old apps I've pushed to shinyapps.io
 theme: minima
 header_pages:
   - stevenranney.github.io/about
